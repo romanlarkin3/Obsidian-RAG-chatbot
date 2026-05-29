@@ -109,7 +109,7 @@ The `chatbot.py` script:
 For a complete explanation of the project, please refer to:
 
 ```text
-documentation/Obsidian RAG chatbot.pdf
+Obsidian RAG chatbot.pdf
 ```
 
 English version: Pages 1–10
